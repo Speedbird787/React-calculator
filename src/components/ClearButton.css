@@ -1,0 +1,15 @@
+.clear-btn{
+    height: 4em;
+    display:flex;
+    justify-items: center;
+    justify-content:center;
+    align-items:center;
+    font-size: 1.5em;
+    font-weight: lighter;
+    background-color: rgb(184, 6, 6);
+    color: rgb(0, 0, 0);
+    flex: 1; 
+    outline: 2px solid rgb(209, 203, 203);
+    cursor: pointer;   
+}
+
